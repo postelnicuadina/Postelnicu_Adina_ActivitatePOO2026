@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Postelnicu_Adina_ActivitatePOO2026/Postelnicu_Adina_ActivitatePOO2026.vcxproj" />
+</Solution>
